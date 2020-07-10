@@ -1,0 +1,25 @@
+{
+  "name": "@fisher-zh/watermark",
+  "version": "0.0.1",
+  "description": "a js plugin for watermark",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "watermark",
+    "canvas",
+    "svg",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fisher-zh/watermark"
+  },
+  "author": "zhangfx",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
