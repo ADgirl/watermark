@@ -1,5 +1,5 @@
 {
-  "name": "@fisher-zh/watermark",
+  "name": "@ad-girl/watermark",
   "version": "0.0.1",
   "description": "a js plugin for watermark",
   "main": "index.js",
@@ -14,9 +14,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fisher-zh/watermark"
+    "url": "https://github.com/ADgirl/watermark"
   },
-  "author": "zhangfx",
+  "author": "ADgirl",
   "license": "MIT",
   "dependencies": {
     "webpack": "^4.25.1",
